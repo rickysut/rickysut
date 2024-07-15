@@ -7,7 +7,7 @@ Software developer
 I am a passionate Software Developer who loves to code and solve programming challenges. I find joy in conceptualizing web solutions and coming up with new ideas using technology. I currently reside in the capital city of Indonesia, DKI Jakarta. I am pursuing my Bachelor's degree in Computer Science from the Bina Nusantara University. My goals are to continuously improve my skills, build impactful projects, and ultimately apply my abilities to create value for organizations and people through software. I am excited by the prospect of contributing my passion and creativity to your amazing team.
 
 *   🌍  I'm based in Jakarta, Indonesia
-*   🖥️  See my portfolio at [My Portfolio](http://happy-mclean-69df89.netlify.app)
+*   🖥️  See my portfolio at [My Portfolio](https://drive.google.com/file/d/1JNy79Y0keLYtu3SVU2Do0VsXgyM7uj6s/view?usp=sharing)
 *   ✉️  You can contact me at [ricky.sutanto@gmail.com](mailto:ricky.sutanto@gmail.com)
 *   🚀  I'm currently working as freelance developer
 *   🤝  I'm open to collaborating on Any project
